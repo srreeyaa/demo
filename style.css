@@ -1,0 +1,71 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  
+}
+body {
+  font-family: initial;
+  background-image: url("lib2.jpg");
+  background-size: cover;             
+  background-repeat: no-repeat;       
+  background-position: center ; 
+  background-attachment: fixed;       
+  height: 300vh;                      
+  margin: 0;
+  padding: 0;
+  color: #333;
+  text-align: center;
+  
+}
+
+
+
+h1 {
+  font-size: 39px;
+  padding: 35px;
+  background-color: rgb(151, 153, 185);
+  color: #000000;
+  
+  
+}
+
+p {
+  font-size: 18px;
+  background-color: bisque;
+  padding: 10px;
+  color: #000;
+}
+
+nav {
+  margin: 20px 0;
+}
+
+nav a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bolder;
+  margin: 0 25px;
+  padding: 8px 12px;
+
+  
+}
+
+nav a:hover {
+  background-color: #6d88a2;
+  color: #1e0c05;
+}
+
+
+footer{
+    margin: 720px 0;
+    background-color: #333;
+    
+}
+.nav-box {
+  background-color:#444; 
+  padding: 7px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
